@@ -1,0 +1,206 @@
+body
+{
+ border: 3px solid black; 
+ height: 100vh;  
+ padding: 10px;
+}
+
+
+header div
+{
+
+border: 1px solid black;
+/*height: inherit;*/
+display: flex;
+padding: 10px;
+justify-content: space-between;
+}
+
+
+.company-logo
+{ 
+    border: 1px solid red;
+    width: auto;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.company-logo a{
+    border: 1px solid green;
+    width: 150px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+#nav-links{
+    width: auto;
+    border: 1px solid black;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#nav-links a{
+   border: 1px solid red;
+   width: 100px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+/* Footer Css*/
+
+footer
+{
+    border: 2px solid black;
+    height: auto;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+footer div
+{
+
+border: 1px solid cat: index.html: No such file or directory/
+display: flex;
+padding: 10px;
+justify-content: space-between;
+}
+
+
+.company-logo-footer
+{ 
+    border: 1px solid red;
+    width: auto;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.company-logo-footer a{
+    border: 1px solid green;
+    width: 150px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+#nav-links-footer{
+    width: auto;
+    border: 1px solid black;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#nav-links-footer a{
+   border: 1px solid red;
+   width: 100px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+#footer-text 
+
+{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+#footer-text a 
+
+{
+    border: 1px solid black;
+    padding: 10px;
+    width: 50px;
+    text-align: center;
+
+}
+header
+{
+    border: 2px solid black;
+    height: auto;
+    padding: 10px;
+}
+
+
+main
+{
+    border: 1px solid black;
+    height: auto;
+    margin-top: 10px;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+main section
+{
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    
+}
+
+#hero-section-div
+{
+    border: 1px solid black;
+    padding: 10px;
+    width: 20%;
+    
+
+}
+
+#hero-section-div h1
+{
+    border: 1px solid #6fd0f3;
+    padding: 10px;
+    margin: 3px;
+    text-align: center;
+
+
+}
+
+#hero-section-div p
+{
+    border: 1px solid purple;
+    padding: 10px;
+    margin: 3px;
+    text-align: center;
+
+}
+
+#hero-section-div button
+{
+    border: 1px solid orange;
+    padding: 10px;
+    margin: 3px;
+    width: 97.5%;
+}
+
+#hero-section-div2
+{
+    border: 1px solid black;
+    padding: 10px;
+    width: 20%;
+    display: g;
+    
+
+}
+
+
+#section2{
+    border: 1px solid black;
+    padding: 10px;
+}
