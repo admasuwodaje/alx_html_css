@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: rgb(192, 192, 192);
 }
 
 main {
@@ -12,8 +13,18 @@ main {
 article {
     flex: 2;
     overflow-y: auto;
+    background-color: aliceblue;
 }
 aside{
     flex: 1;
     overflow-y: auto;
+    background-color: rgb(236, 233, 233);
+}
+header ul li:first-child a {
+    font-size: 24px; /* Adjust the font size as needed */
+    padding: 0 10px;
+}
+
+header ul li:first-child a.logo {
+    font-size: 32px; /* Adjust the font size as needed */
 }
