@@ -308,6 +308,10 @@
   
   /* Section (all styles)
       ============================= */
+  .section-services, .section-works, .section-about-us, .section-latest-news, .section-testimonial, .section-contact
+  {
+
+  }
   
   .section {
     padding: var(--section-padding);
