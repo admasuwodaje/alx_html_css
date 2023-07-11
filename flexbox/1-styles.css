@@ -310,7 +310,7 @@
       ============================= */
   .section-services, .section-works, .section-about-us, .section-latest-news, .section-testimonial, .section-contact
   {
-
+    
   }
   
   .section {
@@ -374,7 +374,8 @@
   .section-hero .section-inner {
     padding: 10rem 40rem 2rem 0;
   }
-  
+
+
   /*** 4. CARD ***/
   
   /* Card (all styles)
